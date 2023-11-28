@@ -1,0 +1,10 @@
+.slide {
+    height: 272px;
+    border-radius: 5px;
+}
+
+@media (max-width:600px) {
+    .slide {
+        height: 200px;
+    }
+}

@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/pages/index.js", "compoments/layout.js", "pages/event/[id].js", "compoments/card.js", "compoments/button.js", "compoments/navbar_client.js", "compoments/slide.js"],
   "exclude": ["node_modules"]
 }
